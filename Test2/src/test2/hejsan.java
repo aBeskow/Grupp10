@@ -11,4 +11,9 @@ package test2;
  */
 public class hejsan {
     
+    public void metod()
+    {
+        
+    }
+    
 }
