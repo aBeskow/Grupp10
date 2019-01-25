@@ -15,7 +15,13 @@ public class Scrum {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+<<<<<<< HEAD:Scrum/src/scrum/Scrum.java
         // TODO code application logic here
+=======
+   
+        System.out.println("HEJHEJ!!");
+        System.out.println("HEEEEJ");
+>>>>>>> e3dc88786667a3bbb31840d72fe4ddb1db9bfed9:Hejsan/src/hejsan/Hejsan.java
     }
     
 }
