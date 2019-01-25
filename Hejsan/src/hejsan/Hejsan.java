@@ -17,6 +17,7 @@ public class Hejsan {
     public static void main(String[] args) {
    
         System.out.println("HEJHEJ!!");
+        System.out.println("HEEEEJ");
     }
     
 }
