@@ -10,5 +10,8 @@ package test2;
  * @author Adam
  */
 public class hej {
-    
+    public void metod()
+    {
+        
+    }
 }
