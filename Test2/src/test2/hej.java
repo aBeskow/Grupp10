@@ -10,8 +10,7 @@ package test2;
  * @author Adam
  */
 public class hej {
-    public void metod()
-    {
-        
-    }
+   public static void main(String args[]) {
+        System.out.println("LALALA");
+}
 }
