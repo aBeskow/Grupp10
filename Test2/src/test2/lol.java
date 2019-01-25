@@ -11,4 +11,12 @@ package test2;
  */
 public class lol {
     
+
+
+public void hejhej(){
+
+
+
+
+}
 }
