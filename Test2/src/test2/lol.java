@@ -15,7 +15,7 @@ public class lol {
 
 public void hejhej(){
 
-System.out.println("hej");
+System.out.println("hejhejhej");
 
 
 }
