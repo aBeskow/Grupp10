@@ -7,15 +7,8 @@ package hejsan;
 
 /**
  *
- * @author User
+ * @author mathias
  */
-public class Hejsan {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-   
-    }
+public class Test {
     
 }
