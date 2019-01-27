@@ -7,13 +7,8 @@ package test2;
 
 /**
  *
- * @author Adam
+ * @author User
  */
-public class hejsan {
-    
-    public void metod()
-    {
-        
-    }
+public class hejejhs {
     
 }
